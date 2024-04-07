@@ -11,3 +11,5 @@ transformar em arquivo exe: https://www.electronjs.org/pt/docs/latest/tutorial/t
 sprites para games: https://www.gameart2d.com/freebies.html
 
 retirar fundo de imagens: https://www.remove.bg/pt-br
+
+Mailtrap - https://mailtrap.io/inboxes/2766382/messages
