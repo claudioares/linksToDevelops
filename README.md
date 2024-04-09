@@ -13,3 +13,5 @@ sprites para games: https://www.gameart2d.com/freebies.html
 retirar fundo de imagens: https://www.remove.bg/pt-br
 
 Mailtrap - https://mailtrap.io/inboxes/2766382/messages
+
+deploy de aplicações -  https://render.com/
