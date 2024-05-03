@@ -14,4 +14,6 @@ retirar fundo de imagens: https://www.remove.bg/pt-br
 
 Mailtrap - https://mailtrap.io/inboxes/2766382/messages
 
+Ia para manipulação de fotos - https://picwish.com/pt/
+
 deploy de aplicações -  https://render.com/
