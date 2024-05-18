@@ -17,3 +17,5 @@ Mailtrap - https://mailtrap.io/inboxes/2766382/messages
 Ia para manipulação de fotos - https://picwish.com/pt/
 
 deploy de aplicações -  https://render.com/
+
+Icones para projetos - https://icons8.com.br/icons
