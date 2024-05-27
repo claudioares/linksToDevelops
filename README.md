@@ -19,3 +19,5 @@ Ia para manipulação de fotos - https://picwish.com/pt/
 deploy de aplicações -  https://render.com/
 
 Icones para projetos - https://icons8.com.br/icons
+
+Simbolos especiais html5 - https://erikasarti.com/html/dingbats-simbolos-desenhos/
