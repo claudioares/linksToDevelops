@@ -21,3 +21,5 @@ deploy de aplicações -  https://render.com/
 Icones para projetos - https://icons8.com.br/icons
 
 Simbolos especiais html5 - https://erikasarti.com/html/dingbats-simbolos-desenhos/
+
+descubra IAs que podem te ajudar no dia a dia - https://www.futurepedia.io/
