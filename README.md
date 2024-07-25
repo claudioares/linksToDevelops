@@ -25,3 +25,5 @@ Simbolos especiais html5 - https://erikasarti.com/html/dingbats-simbolos-desenho
 descubra IAs que podem te ajudar no dia a dia - https://www.futurepedia.io/
 
 layouts - https://www.behance.net/pro
+
+criar movimento para imagens IA - https://lumalabs.ai/dream-machine
