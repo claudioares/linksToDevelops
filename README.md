@@ -29,3 +29,5 @@ layouts - https://www.behance.net/pro
 criar movimento para imagens IA - https://lumalabs.ai/dream-machine
 
 criação de cursos - https://learningstudioai.com/
+
+simulador de eamil -  https://10minutemail.com/
