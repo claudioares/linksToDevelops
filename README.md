@@ -31,3 +31,5 @@ criar movimento para imagens IA - https://lumalabs.ai/dream-machine
 criação de cursos - https://learningstudioai.com/
 
 simulador de eamil -  https://10minutemail.com/
+
+gerador de  pessoas - https://www.4devs.com.br/gerador_de_pessoas
