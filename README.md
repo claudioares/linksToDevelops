@@ -35,3 +35,5 @@ simulador de eamil -  https://10minutemail.com/
 gerador de  pessoas - https://www.4devs.com.br/gerador_de_pessoas
 
 tsconfig/bases - https://github.com/tsconfig/bases?tab=readme-ov-file#node-20-tsconfigjson
+
+vetorizar imagens - https://studio.creativefabrica.com/
